@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome">Name</string>
+    <string name="sobrenome">Last Name</string>
+    <string name="enviar">Send</string>
+    <string name="limpar">Clear</string>
+</resources>
